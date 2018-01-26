@@ -22,5 +22,6 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.squareup:javapoet:1.7.0'//  squareup 公司，用于生成 .java 源文件的 API。
     compile files('libs/ViewUtils.jar')
 }

@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ViewById.iml" filepath="$PROJECT_DIR$/ViewById.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ViewById.iml" filepath="$PROJECT_DIR$/ViewById.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/viewbyid/viewbyid.iml" filepath="$PROJECT_DIR$/viewbyid/viewbyid.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewbyid/viewbyid.iml" filepath="$PROJECT_DIR$/viewbyid/viewbyid.iml" />
     </modules>
   </component>
